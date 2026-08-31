@@ -1,0 +1,2 @@
+# cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network
+The Tree Traversal Simulator is an interactive 2D C++/SGG (Simple Game Graphics Library) educational application for binary trees. Users build custom trees via drag-and-drop mechanics and observe step-by-step stop-motion animations of Preorder, Inorder, Postorder, and Level-order (BFS) traversals with real-time audiovisual feedback.

@@ -14,7 +14,7 @@
 ## 🛠️ The software allows users to freely construct binary trees on an interactive canvas, establish parent-child relationships using drag-and-drop mechanics, and follow step-by-step stop-motion animations of Preorder, Inorder, Postorder, and Level-order (BFS) traversals. The implementation is built on top of the Simple Game Graphics ([SGG](https://github.com/cgaueb/sgg)) framework, leveraging its 2D rendering pipeline, event message loop, input polling, and asset management systems for fonts, textures, and audio playback. 
 ---
 
-## Full Description
+## Full Documentation
 * **Detailed Project Assignment & Implementation Criteria: https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/blob/main/docs/assignment.pdf**
 * **General Project Overview & Presentation: https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/blob/main/docs/presentation-report.pdf**
 * **User Guide – Application Execution Overview (Run-Through): https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/blob/main/docs/user-guide.pdf**

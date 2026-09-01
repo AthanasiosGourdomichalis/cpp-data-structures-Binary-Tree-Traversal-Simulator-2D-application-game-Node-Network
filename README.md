@@ -7,7 +7,7 @@
 
 ---
 
-## 🎬 Demo 
+## 🎬 Demo (GIF)
 ![Binary Tree Traversal Simulator](https://github.com/user-attachments/assets/2a4ebd18-909a-4adb-a9e0-475571cbac0a) 
 
 ---

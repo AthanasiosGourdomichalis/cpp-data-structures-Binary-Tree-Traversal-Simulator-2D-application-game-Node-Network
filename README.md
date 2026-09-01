@@ -27,7 +27,7 @@
 ## Click here to watch / download a short tutorial video 
 ### Item type: MP4 File
 ### Size: 19.5 MB
-### Length: 00:03:032
+### Length: 00:03:32
 **https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/releases/download/v1.0/demo-video.mp4**
 
 ---

@@ -20,7 +20,10 @@
 * **User Guide – Application Execution Overview (Run-Through): https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/blob/main/docs/user-guide.pdf**
 * **Technical Report & C++ Code Analysis: https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/blob/main/docs/technical-report-code-analysis.pdf**
 ---
+### 📺 Application Walkthrough - Tutorial
 
+## **Click here to watch / download a short tutorial video (MP4) https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/releases/download/v1.0/demo-video.mp4**
+---
 ## Key Features
 
 * **Interactive Binary Tree Builder**

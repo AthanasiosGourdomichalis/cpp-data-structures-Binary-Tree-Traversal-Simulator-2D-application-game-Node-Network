@@ -23,7 +23,7 @@
 ---
 
 ### 📺 Short Demo Video - Execution example
-https://github.com/user-attachments/assets/ca6b92f5-d17e-4095-9f13-5e30ace36217
+https://github.com/user-attachments/assets/0c413926-a4ad-49ea-abae-17929500e1ec
 
 ---
 ## Key Features
